@@ -28,7 +28,9 @@ Together, these artifacts demonstrate my ability to evaluate existing software, 
 
 My CS 499 code review discusses the three original artifacts selected for my ePortfolio and the enhancements planned for each one.
 
-**[View My CS 499 Code Review Video](PASTE-YOUR-VIDEO-LINK-HERE)**
+[View My CS 499 video here]
+  
+https://drive.google.com/file/d/1K3KOZOm51VQG8zoQ7uUApXojAEhJfw03/view?usp=drive_link
 
 ---
 
