@@ -1,0 +1,6 @@
+RECENT RUNS
+[{'run_id': 1, 'started_at': '2026-07-31T04:56:36.505564+00:00', 'completed_at': '2026-07-31T04:56:36.517826+00:00', 'status': 'completed', 'requested_epochs': 1000, 'final_epoch': 1, 'final_win_rate': 0.5, 'total_seconds': 2.5}]
+RUN METRICS
+[{'epoch_number': 0, 'loss': 0.75, 'episode_steps': 20, 'cumulative_wins': 0, 'win_rate': 0.0, 'epsilon': 1.0, 'elapsed_seconds': 1.25}, {'epoch_number': 1, 'loss': 0.5, 'episode_steps': 18, 'cumulative_wins': 1, 'win_rate': 0.5, 'epsilon': 0.995, 'elapsed_seconds': 2.5}]
+DELETE: True
+AFTER DELETE: []

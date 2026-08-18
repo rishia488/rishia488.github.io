@@ -1,0 +1,76 @@
+
+ABCU Advising Assistance Program
+1. Load Course Data
+2. Display All Courses
+3. Search for a Course
+4. Add a Course
+5. Edit a Course
+6. Delete a Course
+7. Display Performance Results
+9. Exit
+Enter a selection: Enter the CSV filename, or press Enter to use ABCU_Advising_Program_Input.csv: 8 courses successfully loaded from ABCU_Advising_Program_Input.csv.
+
+ABCU Advising Assistance Program
+1. Load Course Data
+2. Display All Courses
+3. Search for a Course
+4. Add a Course
+5. Edit a Course
+6. Delete a Course
+7. Display Performance Results
+9. Exit
+Enter a selection: 
+Course List (Alphanumeric Order)
+--------------------------------
+CSCI100, Introduction to Computer Science
+CSCI101, Introduction to Programming in C++
+CSCI200, Data Structures
+CSCI300, Introduction to Algorithms
+CSCI301, Advanced Programming in C++
+CSCI350, Operating Systems
+CSCI400, Large Software Development
+MATH201, Discrete Mathematics
+
+ABCU Advising Assistance Program
+1. Load Course Data
+2. Display All Courses
+3. Search for a Course
+4. Add a Course
+5. Edit a Course
+6. Delete a Course
+7. Display Performance Results
+9. Exit
+Enter a selection: Enter the course number: CSCI300, Introduction to Algorithms
+Prerequisites: CSCI200, MATH201
+
+ABCU Advising Assistance Program
+1. Load Course Data
+2. Display All Courses
+3. Search for a Course
+4. Add a Course
+5. Edit a Course
+6. Delete a Course
+7. Display Performance Results
+9. Exit
+Enter a selection: 
+Performance Results
+-------------------
+Courses stored: 8
+Hash buckets: 101
+Buckets in use: 8
+Hash collisions: 0
+10000 hash-table searches: 956361 ns
+10000 linear vector searches: 1315535 ns
+Copy and alphanumeric sort: 7050 ns
+Benchmark target: CSCI301
+
+ABCU Advising Assistance Program
+1. Load Course Data
+2. Display All Courses
+3. Search for a Course
+4. Add a Course
+5. Edit a Course
+6. Delete a Course
+7. Display Performance Results
+9. Exit
+Enter a selection: Thank you for using the course planner.
